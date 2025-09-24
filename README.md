@@ -69,5 +69,5 @@ The EDA workflow includes:
 - Relationship between habitat type and conservation status  
 - Geographic distribution of observed species  
 - Insights into population trends and potential conservation focus areas  
-pip install pandas matplotlib seaborn plotly
+
 
