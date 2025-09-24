@@ -27,7 +27,7 @@ The project uses the following tools and libraries:
 | File Name | Description |
 |-----------|-------------|
 | `task2_eda.py` | Python script containing the complete EDA workflow |
-| `data.csv` | Dataset file used for analysis (replace with your own dataset) |
+| `crocodile_dataset.csv` | crocodile dataset |
 | `README.md` | This file – project overview, instructions, and documentation |
 
 ---
